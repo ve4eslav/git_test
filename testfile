@@ -1,3 +1,7 @@
 test v4
 push github
+<<<<<<< HEAD
 branch master
+=======
+branch test1
+>>>>>>> test1
