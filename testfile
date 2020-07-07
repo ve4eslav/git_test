@@ -1,8 +1,6 @@
 test v4
 push github
-<<<<<<< HEAD
 branch master
-=======
 branch test1
 add line1
 add line2
