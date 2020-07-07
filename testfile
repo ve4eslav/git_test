@@ -4,5 +4,4 @@ push github
 branch master
 =======
 branch test1
->>>>>>> test1
-new line
+add line1
